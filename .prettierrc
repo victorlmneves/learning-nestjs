@@ -1,0 +1,18 @@
+{
+  "trailingComma": "none",
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "printWidth": 100,
+  "bracketSameLine": false,
+  "vueIndentScriptAndStyle": true,
+  "endOfLine": "auto",
+  "prettier/prettier": [
+    "error",
+    {},
+    {
+      "usePrettierrc": false
+    }
+  ]
+}
